@@ -71,5 +71,5 @@ Managed PR team of 30, coordinated communications and outreach.
 ## 🔗 Contact
 
 - **LinkedIn:** [linkedin.com/in/dwmhr](https://linkedin.com/in/dwmhr)  
-- **GitHub:** [github.com/dwmhr12](https://github.com/dwmhr12)  
-- **Email:** dewimaharani170104@gmail.com  
+- **GitHub:** [github.com/dwmhr12](https://github.com/dwmhr12)
+- **Email:** [dewimaharani170104@gmail.com](mailto:dewimaharani170104@gmail.com)  
