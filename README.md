@@ -57,7 +57,7 @@ You may access and download my full portfolio here:
 ---
 
 ## 🔗 Contact & Links
-- LinkedIn: [www.linkedin.com/in/dwmhr](https://www.linkedin.com/in/dwmhr)
+- LinkedIn: [www.linkedin.com/in/dwmhr](https://linkedin.com/in/dwmhr)
 - GitHub: [github.com/dwmhr12](https://github.com/dwmhr12)
 - Email: [dewimaharani170104@gmail.com](mailto:dewimaharani170104@gmail.com)
   
