@@ -43,6 +43,6 @@ You can view my full portfolio here:
 - Introduction to SAP S/4HANA with GBI 4.2 – SAP  
 
 ## 🔗 Contact & Links
-- LinkedIn: [www.linkedin.com/in/dwmhr](https://linkedin.com/in/dwmhr)  
+- LinkedIn: [linkedin.com/in/dwmhr](https://linkedin.com/in/dwmhr)  
 - GitHub: [github.com/dwmhr12](https://github.com/dwmhr12)  
 - Email: [dewimaharani170104@gmail.com](mailto:dewimaharani170104@gmail.com)
