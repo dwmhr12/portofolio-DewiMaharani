@@ -2,8 +2,7 @@
 
 Welcome! I’m Dewi Maharani, currently pursuing a degree in Information Systems with a focus on Data Engineering and Data Analysis. This portfolio contains selected works, certifications, and tools I’ve explored throughout my academic and professional journey.
 
-📄 Portfolio PDF  
-📄 Portfolio PDF  
+## 📄 Portfolio PDF 
 You may access and download my full portfolio here:  
 👉 [📂 Download Portfolio (PDF)](./Portofolio-DewiMaharani.pdf)
 
