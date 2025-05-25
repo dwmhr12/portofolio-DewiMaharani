@@ -6,7 +6,7 @@ Welcome! I’m Dewi Maharani, currently pursuing a degree in Information Systems
 You can view my full portfolio here:  
 👉 [📂 View My Portfolio (Online)](https://drive.google.com/file/d/1Fj8JmZzL5Xn9oqPlV9x12FEVFA-SxNvE/view?usp=sharing)  
 Or download it directly from this repository:  
-📥 [Portfolio-DewiMaharani.pdf](./Portfolio-DewiMaharani.pdf)
+📥 [Download My Portfolio (PDF)](./Portofolio-DewiMaharani.pdf)
 
 ## 🧠 Areas of Interest
 - Data Engineering  
