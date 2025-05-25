@@ -21,6 +21,7 @@ This portfolio highlights my selected key projects, leadership roles, skills, an
 - Developed star schema data warehouse and automated ETL pipelines with Pentaho.  
 - Created interactive dashboards in Power BI for admission data analysis.
 
+📌 More projects and detailed explanations available in the [Full Portfolio (PDF)](./Portofolio-DewiMaharani.pdf).
 ---
 
 ## 🏆 Leadership Experience
